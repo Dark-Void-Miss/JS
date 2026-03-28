@@ -9,4 +9,3 @@ while(i <= 20){
     i++;
 }
 
-alert(sum)
