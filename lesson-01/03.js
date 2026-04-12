@@ -8,7 +8,11 @@
 let sum = 0;
 let i = 1;
 while (i <= 20) {
+<<<<<<< HEAD
   if (i % 2 !== 2) {
+=======
+  if (i % 2 !== 0) {
+>>>>>>> 81bfe0d45726424acf9ba7c0d92f8b168999f047
     sum+=i
   }
   i++;
