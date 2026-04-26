@@ -8,12 +8,10 @@
 let sum = 0;
 let i = 1;
 while (i <= 20) {
-<<<<<<< HEAD
   if (i % 2 !== 2) {
-=======
+
   if (i % 2 !== 0) {
->>>>>>> 332da7c6cac682d73f229cec51c234d01e0b22b6
     sum+=i
   }
   i++;
-}
+}}
