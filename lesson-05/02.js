@@ -38,3 +38,5 @@ const gallery = {
 function updateGallery(obj, nameKey, newKey) {
   return (obj[nameKey] = newKey);
 }
+
+
